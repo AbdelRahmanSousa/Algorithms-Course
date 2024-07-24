@@ -1,0 +1,2 @@
+A checking tool is used to detect code plagiarism of certain assessment. It provides a list of matching pairs. However, two submissions may not be directly detected in a separate pair. Instead, they can be related via a chain of matching pairs.
+Given a list of matching pairs and a query pair, find the min number of connections between the nodes of the given pair (if any)?
