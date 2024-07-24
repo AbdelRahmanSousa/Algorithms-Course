@@ -1,0 +1,8 @@
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Release\IntegerMultiplication.exe.config
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Release\IntegerMultiplication.exe
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\bin\Release\IntegerMultiplication.pdb
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Release\IntegerMultiplication.csproj.AssemblyReference.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Release\IntegerMultiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Release\IntegerMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Release\IntegerMultiplication.exe
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Integer Mult\[TEMPLATE]\IntegerMultiplication\obj\Release\IntegerMultiplication.pdb
