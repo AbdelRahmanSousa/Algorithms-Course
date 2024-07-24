@@ -1,0 +1,1 @@
+Given two sorted arrays. There is only 1 difference between the arrays. First array has one element extra added in between. Design an efficient algorithm to find the index of the extra element.
