@@ -1,0 +1,9 @@
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.csproj.AssemblyReference.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\bin\Release\PlagiarismChecking.exe.config
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\bin\Release\PlagiarismChecking.exe
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\bin\Release\PlagiarismChecking.pdb
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.csproj.CopyComplete
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.exe
+C:\Users\Abdel\Projects\FCIS\Analysis and Design of Algorithms\Plagiarism Checking\[TEMPLATE]\PlagiarismChecking\obj\Release\PlagiarismChecking.pdb
